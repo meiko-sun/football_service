@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="footba_service_eurekaserver" />
+        <module name="football_service_api" />
+        <module name="football_service_common" />
+        <module name="football_service_member" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="footba_service_eurekaserver" target="1.8" />
+      <module name="football_service" target="1.8" />
+      <module name="football_service_api" target="1.8" />
+      <module name="football_service_common" target="1.8" />
+      <module name="football_service_member" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

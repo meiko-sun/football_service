@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/football_service.iml" filepath="$PROJECT_DIR$/.idea/football_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/footba_service_eurekaserver/footba_service_eurekaserver.iml" filepath="$PROJECT_DIR$/footba_service_eurekaserver/footba_service_eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football_service.iml" filepath="$PROJECT_DIR$/football_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football_service_api/football_service_api.iml" filepath="$PROJECT_DIR$/football_service_api/football_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football_service_common/football_service_common.iml" filepath="$PROJECT_DIR$/football_service_common/football_service_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football_service_member/football_service_member.iml" filepath="$PROJECT_DIR$/football_service_member/football_service_member.iml" />
     </modules>
   </component>
 </project>
